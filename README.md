@@ -4,4 +4,4 @@
 
 `bundle install`
 
-``bundle exec jekyll liveserve
+`bundle exec jekyll liveserve`
