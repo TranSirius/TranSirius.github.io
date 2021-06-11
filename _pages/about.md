@@ -21,5 +21,29 @@ Publications & Preprints
 
 2021
 -----
-* **Zijun Yao**, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang and Zelin Dai, Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making, ACL 2021
-<!-- * Liang Zeng, Jin Xu, **Zijun Yao**, Yanqiao Zhu, Jian Li, Graph Symbiosis Learning -->
+
+<table>
+	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
+	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
+	  </td>
+	  <td style="width:10px">
+	  </td>
+	  <td valign="middle">
+	    <div>
+	    	<b>
+        Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making
+        </b>
+        <br>
+			  <i>
+        Arxiv Preprint
+        </i>
+        <br>
+	    	<b>Zijun Yao</b>, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang and Zelin Dai
+        <br>
+	    	[<a href="https://arxiv.org/abs/2106.04174">PDF</a>]
+        [<a href="https://github.com/THU-KEG/HIF-KAT">Code</a>]
+        <br>
+			We propose to decouple the representation learning stage and the decision making stage to fully utilize unlabeled data for entity matching task.
+		</div>
+	</td></tr></tbody>
+</table>
