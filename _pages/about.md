@@ -12,6 +12,9 @@ I am a first year master student at the [Department of Computer Science and Tech
 I receive my bachelor degree from the Computer Science and Technology of [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/).
 I am currently working on Graph Neural Networks and Knowledge Engineering.
 
+What's New
+=====
+
 Publications
 ======
 
