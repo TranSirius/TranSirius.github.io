@@ -23,7 +23,7 @@ Publications & Preprints
 -----
 
 <html>
-<table>
+<table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
 	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
 	  </td>
