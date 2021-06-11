@@ -22,6 +22,7 @@ Publications & Preprints
 2021
 -----
 
+<html>
 <table>
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
 	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
@@ -47,3 +48,5 @@ Publications & Preprints
 		</div>
 	</td></tr></tbody>
 </table>
+<br><br>
+</html>
