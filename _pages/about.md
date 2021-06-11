@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a first year master student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
-I receive my bachelor degree in Computer Science and Technology from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/).
+I receive my bachelor degree from the Computer Science and Technology of [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/).
 I am currently working on Graph Neural Networks and Knowledge Engineering.
 
 Publications
