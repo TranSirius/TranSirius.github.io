@@ -53,7 +53,6 @@ td, th {
 		</div>
 	</td></tr></tbody>
 </table>
-<br>
 
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
@@ -79,4 +78,3 @@ td, th {
 		</div>
 	</td></tr></tbody>
 </table>
-<br>
