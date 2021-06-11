@@ -22,7 +22,12 @@ Publications & Preprints
 2021
 -----
 
-<html>
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <table style="border: none!important;">
 	  <tbody><tr><td style="width:230px; height:110px" valign="middle" align="middle">
 	    <img src="http://transirius.github.io/images/pub/kat.png" width="250">
@@ -35,8 +40,8 @@ Publications & Preprints
         Interpretable and Low-Resource Entity Matching via Decoupling Feature Learning from Decision Making
         </b>
         <br>
-			  <i>
-        Arxiv Preprint
+		<i>
+        ACL 2021
         </i>
         <br>
 	    	<b>Zijun Yao</b>, Chengjiang Li, Tiansi Dong, Xin Lv, Jifan Yu, Lei Hou, Juanzi Li, Yichi Zhang and Zelin Dai
@@ -49,4 +54,3 @@ Publications & Preprints
 	</td></tr></tbody>
 </table>
 <br><br>
-</html>
