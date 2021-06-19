@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zijun Yao 姚子俊"
+title                    : "Zijun Yao"
 title_separator          : "-"
-name                     : &name "Zijun Yao"
+name                     : &name "Zijun Yao (姚子俊)"
 description              : &description "First Year Grad Student @ Knowledge Engineering Group, Tsinghua University"
 url                      : https://transirius.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
