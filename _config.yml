@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zijun Yao"
 title_separator          : "-"
-name                     : &name "Zijun Yao (姚子俊)"
+name                     : &name "Zijun Yao"
 description              : &description "First Year Grad Student @ Knowledge Engineering Group, Tsinghua University"
 url                      : https://transirius.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zijun Yao"
+  name             : "Zijun Yao (姚子俊)"
   avatar           : "profile.jpg"
   bio              : "First Year Grad Student @ KEG, Tsinghua University"
   location         : "Beijing, China"
