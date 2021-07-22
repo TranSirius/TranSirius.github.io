@@ -48,6 +48,7 @@ td, th {
         <br>
 		[<a href="https://arxiv.org/abs/2106.04174">PDF</a>]
         [<a href="https://github.com/THU-KEG/HIF-KAT">Code</a>]
+		[<a href="http://transirius.github.io/files/kat.pdf">Slide</a>]
         <br>
 			We propose to decouple the representation learning stage and the decision making stage to fully utilize unlabeled data for entity matching task.
 		</div>
