@@ -8,13 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year master student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
+I am a third year master student at the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) in Tsinghua University, supervised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
 I received my bachelor's degree in Computer Science and Technology from [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/).
-I am currently working on Graph Neural Networks and Knowledge Engineering.
+I am currently working on knowledge base question answering and question generation.
+I previously worked on evoluationary game theory and graph neural networks.
 
 What's New
 =====
 
+
+Academic Service
+=====
+
+- Program Committee Member/Reviewer:  WWW-DL4G 2020, EMNLP 2022.
+- Secondary Reviewer:  IJCAI/AAAI/EMNLP 2021, AAAI/COLING 2022, ACL Rolling Review.
 
 Publications & Preprints
 ======
