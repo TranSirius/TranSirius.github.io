@@ -20,7 +20,7 @@ What's New
 Academic Service
 =====
 
-- Program Committee Member/Reviewer:  WWW-DL4G 2020, EMNLP 2022.
+- Program Committee Member/Reviewer:  WWW-DL4G 2020, EMNLP 2022, ACL 2023, TKDE, and SMC.
 - Secondary Reviewer:  IJCAI/AAAI/EMNLP 2021, AAAI/COLING 2022, ACL Rolling Review.
 
 Publications & Preprints
